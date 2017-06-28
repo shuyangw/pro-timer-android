@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProTimerAndroid</string>
+    <string name="edit_1">Enter hours</string>
+    <string name="edit_2">Enter minutes</string>
+    <string name="edit_3">Enter seconds</string>
+    <string name="button_send">Send</string>
+
+</resources>
